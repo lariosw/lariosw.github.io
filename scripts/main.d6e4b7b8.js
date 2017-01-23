@@ -1,0 +1,1 @@
+"use strict";var wlApp={openInNewTab:function(a){var b=window.open(a,"_blank");b.focus()}};
