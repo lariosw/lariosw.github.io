@@ -1,0 +1,1 @@
+"use strict";function onPageReady(){var a=$("#homepage-background"),b=$(window),c=$(".fa-angle-double-up");c.hide(),b.scroll(function(){var d=a.offset().top+a.outerHeight(),e=b.scrollTop();d>e?c.hide():c.show()})}$(document).ready(onPageReady);
